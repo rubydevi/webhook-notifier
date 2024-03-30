@@ -73,6 +73,11 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+- Ruby installed on your machine
+- Rails installed on your machine
+- PostgreSQL installed on your machine
+
+Make sure you have these prerequisites fulfilled before proceeding with the project.
 
 ### Setup
 
